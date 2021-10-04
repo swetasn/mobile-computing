@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SmartHome Gestures</string>
+    <string name="choose_gesture">Choose One Gesture:</string>
+    <string name="button_practice">PRACTICE</string>
+    <string name="video_preview">Previewing the video for the gesture: </string>
+    <string-array name="gestureItems">
+        <item>Select one gesture</item>
+        <item>Turn On Light</item>
+        <item>Turn Off Light</item>
+        <item>Turn On Fan</item>
+        <item>Turn Off Fan</item>
+        <item>Increase Fan Speed</item>
+        <item>Decrease Fan Speed</item>
+        <item>Set Thermostat To Specified Temperature</item>
+        <item>Digit 0</item>
+        <item>Digit 1</item>
+        <item>Digit 2</item>
+        <item>Digit 3</item>
+        <item>Digit 4</item>
+        <item>Digit 5</item>
+        <item>Digit 6</item>
+        <item>Digit 7</item>
+        <item>Digit 8</item>
+        <item>Digit 9</item>
+    </string-array>
+</resources>
